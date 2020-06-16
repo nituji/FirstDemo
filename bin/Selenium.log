@@ -1,0 +1,15 @@
+2019-03-04 18:25:01 [INFO] [main] [DesireStay] clicked on my account
+2019-03-04 18:25:07 [INFO] [main] [DesireStay] entered username 
+2019-03-04 18:25:09 [INFO] [main] [DesireStay] entered password
+2019-03-04 18:25:15 [INFO] [main] [DesireStay] clicked on login button
+2019-03-04 18:25:21 [INFO] [main] [DesireStay] login successful
+2019-03-04 18:25:25 [INFO] [main] [DesireStay] clicked on my account
+2019-03-04 18:25:30 [INFO] [main] [DesireStay] entered from city
+2019-03-04 18:25:33 [INFO] [main] [DesireStay] from city selected from dropdown
+2019-03-04 18:25:33 [INFO] [main] [DesireStay] entered to city
+2019-03-04 18:25:36 [INFO] [main] [DesireStay] to city selected to dropdown
+2019-03-04 18:25:38 [INFO] [main] [DesireStay] date is selected from datepicker
+2019-03-04 18:25:41 [INFO] [main] [DesireStay] clicked on travellers
+2019-03-04 18:25:42 [INFO] [main] [DesireStay] clicked on child increment
+2019-03-04 18:26:05 [INFO] [main] [DesireStay] clicked on search button
+2019-03-04 18:26:05 [INFO] [main] [Desirsaty] ======== booking the flight based on flight code starts =================
